@@ -1,0 +1,11 @@
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/obj/Debug/netcoreapp3.0/Formatting.csprojAssemblyReference.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/obj/Debug/netcoreapp3.0/Formatting.AssemblyInfoInputs.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/obj/Debug/netcoreapp3.0/Formatting.AssemblyInfo.cs
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/bin/Debug/netcoreapp3.0/Formatting
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/bin/Debug/netcoreapp3.0/Formatting.deps.json
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/bin/Debug/netcoreapp3.0/Formatting.runtimeconfig.json
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/bin/Debug/netcoreapp3.0/Formatting.runtimeconfig.dev.json
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/bin/Debug/netcoreapp3.0/Formatting.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/bin/Debug/netcoreapp3.0/Formatting.pdb
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/obj/Debug/netcoreapp3.0/Formatting.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Formatting/obj/Debug/netcoreapp3.0/Formatting.pdb

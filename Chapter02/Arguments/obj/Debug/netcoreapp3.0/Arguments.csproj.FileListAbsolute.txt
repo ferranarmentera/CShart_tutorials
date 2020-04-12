@@ -1,0 +1,11 @@
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.deps.json
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.runtimeconfig.json
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.runtimeconfig.dev.json
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/bin/Debug/netcoreapp3.0/Arguments.pdb
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.csprojAssemblyReference.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.AssemblyInfoInputs.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.AssemblyInfo.cs
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter02/Arguments/obj/Debug/netcoreapp3.0/Arguments.pdb
