@@ -1,0 +1,11 @@
+/Users/fcolell/Code/Chapter02/Numbers/bin/Debug/netcoreapp3.0/Numbers
+/Users/fcolell/Code/Chapter02/Numbers/bin/Debug/netcoreapp3.0/Numbers.deps.json
+/Users/fcolell/Code/Chapter02/Numbers/bin/Debug/netcoreapp3.0/Numbers.runtimeconfig.json
+/Users/fcolell/Code/Chapter02/Numbers/bin/Debug/netcoreapp3.0/Numbers.runtimeconfig.dev.json
+/Users/fcolell/Code/Chapter02/Numbers/bin/Debug/netcoreapp3.0/Numbers.dll
+/Users/fcolell/Code/Chapter02/Numbers/bin/Debug/netcoreapp3.0/Numbers.pdb
+/Users/fcolell/Code/Chapter02/Numbers/obj/Debug/netcoreapp3.0/Numbers.csprojAssemblyReference.cache
+/Users/fcolell/Code/Chapter02/Numbers/obj/Debug/netcoreapp3.0/Numbers.AssemblyInfoInputs.cache
+/Users/fcolell/Code/Chapter02/Numbers/obj/Debug/netcoreapp3.0/Numbers.AssemblyInfo.cs
+/Users/fcolell/Code/Chapter02/Numbers/obj/Debug/netcoreapp3.0/Numbers.dll
+/Users/fcolell/Code/Chapter02/Numbers/obj/Debug/netcoreapp3.0/Numbers.pdb

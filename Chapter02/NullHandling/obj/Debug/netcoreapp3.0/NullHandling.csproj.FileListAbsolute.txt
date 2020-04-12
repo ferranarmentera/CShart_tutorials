@@ -1,0 +1,11 @@
+/Users/fcolell/Code/Chapter02/NullHandling/obj/Debug/netcoreapp3.0/NullHandling.csprojAssemblyReference.cache
+/Users/fcolell/Code/Chapter02/NullHandling/obj/Debug/netcoreapp3.0/NullHandling.AssemblyInfoInputs.cache
+/Users/fcolell/Code/Chapter02/NullHandling/obj/Debug/netcoreapp3.0/NullHandling.AssemblyInfo.cs
+/Users/fcolell/Code/Chapter02/NullHandling/bin/Debug/netcoreapp3.0/NullHandling
+/Users/fcolell/Code/Chapter02/NullHandling/bin/Debug/netcoreapp3.0/NullHandling.deps.json
+/Users/fcolell/Code/Chapter02/NullHandling/bin/Debug/netcoreapp3.0/NullHandling.runtimeconfig.json
+/Users/fcolell/Code/Chapter02/NullHandling/bin/Debug/netcoreapp3.0/NullHandling.runtimeconfig.dev.json
+/Users/fcolell/Code/Chapter02/NullHandling/bin/Debug/netcoreapp3.0/NullHandling.dll
+/Users/fcolell/Code/Chapter02/NullHandling/bin/Debug/netcoreapp3.0/NullHandling.pdb
+/Users/fcolell/Code/Chapter02/NullHandling/obj/Debug/netcoreapp3.0/NullHandling.dll
+/Users/fcolell/Code/Chapter02/NullHandling/obj/Debug/netcoreapp3.0/NullHandling.pdb

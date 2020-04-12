@@ -1,0 +1,11 @@
+/Users/fcolell/Code/Chapter02/Basics/obj/Debug/netcoreapp3.0/Basics.csprojAssemblyReference.cache
+/Users/fcolell/Code/Chapter02/Basics/obj/Debug/netcoreapp3.0/Basics.AssemblyInfoInputs.cache
+/Users/fcolell/Code/Chapter02/Basics/obj/Debug/netcoreapp3.0/Basics.AssemblyInfo.cs
+/Users/fcolell/Code/Chapter02/Basics/bin/Debug/netcoreapp3.0/Basics
+/Users/fcolell/Code/Chapter02/Basics/bin/Debug/netcoreapp3.0/Basics.deps.json
+/Users/fcolell/Code/Chapter02/Basics/bin/Debug/netcoreapp3.0/Basics.runtimeconfig.json
+/Users/fcolell/Code/Chapter02/Basics/bin/Debug/netcoreapp3.0/Basics.runtimeconfig.dev.json
+/Users/fcolell/Code/Chapter02/Basics/bin/Debug/netcoreapp3.0/Basics.dll
+/Users/fcolell/Code/Chapter02/Basics/bin/Debug/netcoreapp3.0/Basics.pdb
+/Users/fcolell/Code/Chapter02/Basics/obj/Debug/netcoreapp3.0/Basics.dll
+/Users/fcolell/Code/Chapter02/Basics/obj/Debug/netcoreapp3.0/Basics.pdb

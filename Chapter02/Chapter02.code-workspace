@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Basics"
+		},
+		{
+			"path": "Arrays"
+		},
+		{
+			"name": "Code",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

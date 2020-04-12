@@ -1,0 +1,11 @@
+/Users/fcolell/Code/Chapter02/Arrays/bin/Debug/netcoreapp3.0/Arrays
+/Users/fcolell/Code/Chapter02/Arrays/bin/Debug/netcoreapp3.0/Arrays.deps.json
+/Users/fcolell/Code/Chapter02/Arrays/bin/Debug/netcoreapp3.0/Arrays.runtimeconfig.json
+/Users/fcolell/Code/Chapter02/Arrays/bin/Debug/netcoreapp3.0/Arrays.runtimeconfig.dev.json
+/Users/fcolell/Code/Chapter02/Arrays/bin/Debug/netcoreapp3.0/Arrays.dll
+/Users/fcolell/Code/Chapter02/Arrays/bin/Debug/netcoreapp3.0/Arrays.pdb
+/Users/fcolell/Code/Chapter02/Arrays/obj/Debug/netcoreapp3.0/Arrays.csprojAssemblyReference.cache
+/Users/fcolell/Code/Chapter02/Arrays/obj/Debug/netcoreapp3.0/Arrays.AssemblyInfoInputs.cache
+/Users/fcolell/Code/Chapter02/Arrays/obj/Debug/netcoreapp3.0/Arrays.AssemblyInfo.cs
+/Users/fcolell/Code/Chapter02/Arrays/obj/Debug/netcoreapp3.0/Arrays.dll
+/Users/fcolell/Code/Chapter02/Arrays/obj/Debug/netcoreapp3.0/Arrays.pdb
