@@ -1,0 +1,11 @@
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.csprojAssemblyReference.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.AssemblyInfoInputs.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.AssemblyInfo.cs
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.deps.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.runtimeconfig.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.runtimeconfig.dev.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/bin/Debug/netcoreapp3.0/Operators.pdb
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/obj/Debug/netcoreapp3.0/Operators.pdb
