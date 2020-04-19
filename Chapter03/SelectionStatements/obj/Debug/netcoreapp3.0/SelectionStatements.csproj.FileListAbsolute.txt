@@ -1,0 +1,11 @@
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/obj/Debug/netcoreapp3.0/SelectionStatements.csprojAssemblyReference.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/obj/Debug/netcoreapp3.0/SelectionStatements.AssemblyInfoInputs.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/obj/Debug/netcoreapp3.0/SelectionStatements.AssemblyInfo.cs
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/bin/Debug/netcoreapp3.0/SelectionStatements
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/bin/Debug/netcoreapp3.0/SelectionStatements.deps.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/bin/Debug/netcoreapp3.0/SelectionStatements.runtimeconfig.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/bin/Debug/netcoreapp3.0/SelectionStatements.runtimeconfig.dev.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/bin/Debug/netcoreapp3.0/SelectionStatements.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/bin/Debug/netcoreapp3.0/SelectionStatements.pdb
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/obj/Debug/netcoreapp3.0/SelectionStatements.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter03/SelectionStatements/obj/Debug/netcoreapp3.0/SelectionStatements.pdb

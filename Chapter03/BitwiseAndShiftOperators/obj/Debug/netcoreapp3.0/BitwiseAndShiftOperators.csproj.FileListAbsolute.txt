@@ -1,0 +1,11 @@
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.csprojAssemblyReference.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.AssemblyInfo.cs
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.deps.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.runtimeconfig.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.runtimeconfig.dev.json
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/bin/Debug/netcoreapp3.0/BitwiseAndShiftOperators.pdb
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.dll
+/Users/fcolell/Code/CShart_tutorials/Chapter03/BitwiseAndShiftOperators/obj/Debug/netcoreapp3.0/BitwiseAndShiftOperators.pdb
