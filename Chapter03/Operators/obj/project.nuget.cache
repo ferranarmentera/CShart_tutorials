@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCjDQ03HOy/9rjGe1boZ+CIaqLLb7+iUm/a0ZxwVwyVa48id9CcEElB36uLShncCN3vOcP1CjunM64y38V8yeQ==",
+  "success": true,
+  "projectFilePath": "/Users/fcolell/Code/CShart_tutorials/Chapter03/Operators/Operators.csproj",
+  "expectedPackageFiles": [
+    "/Users/fcolell/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
