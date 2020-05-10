@@ -16,7 +16,7 @@ namespace SelectionStatements
                 WriteLine("There is at least one argument.");
                 }
             // add and remove the "" to change the behavior
-            object o = "3";
+            object o = 3;//Delete the double-quote characters around the "3" value so that the value stored in the variable named o is an int type instead of a string type.
             int j = 4;
             if(o is int i)
             {
