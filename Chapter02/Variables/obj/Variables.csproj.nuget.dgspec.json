@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferra\\Documents\\GitHub\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj": {}
+    "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferra\\Documents\\GitHub\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj": {
+    "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferra\\Documents\\GitHub\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj",
+        "projectUniqueName": "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "C:\\Users\\ferra\\Documents\\GitHub\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj",
+        "projectPath": "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter02\\Variables\\Variables.csproj",
         "packagesPath": "C:\\Users\\ferra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferra\\Documents\\GitHub\\CShart_tutorials\\Chapter02\\Variables\\obj\\",
+        "outputPath": "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter02\\Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferra\\AppData\\Roaming\\NuGet\\NuGet.Config",

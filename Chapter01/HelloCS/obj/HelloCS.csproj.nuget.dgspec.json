@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fcolell/Code/CShart_tutorials/CShart_tutorials/Chapter01/HelloCS/HelloCS.csproj": {}
+    "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter01\\HelloCS\\HelloCS.csproj": {}
   },
   "projects": {
-    "/Users/fcolell/Code/CShart_tutorials/CShart_tutorials/Chapter01/HelloCS/HelloCS.csproj": {
+    "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter01\\HelloCS\\HelloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fcolell/Code/CShart_tutorials/CShart_tutorials/Chapter01/HelloCS/HelloCS.csproj",
+        "projectUniqueName": "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter01\\HelloCS\\HelloCS.csproj",
         "projectName": "HelloCS",
-        "projectPath": "/Users/fcolell/Code/CShart_tutorials/CShart_tutorials/Chapter01/HelloCS/HelloCS.csproj",
-        "packagesPath": "/Users/fcolell/.nuget/packages/",
-        "outputPath": "/Users/fcolell/Code/CShart_tutorials/CShart_tutorials/Chapter01/HelloCS/obj/",
+        "projectPath": "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "packagesPath": "C:\\Users\\ferra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ferra\\Documents\\CShart_tutorials\\Chapter01\\HelloCS\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/fcolell/.config/NuGet/NuGet.Config"
+          "C:\\Users\\ferra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,6 +51,18 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -59,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
